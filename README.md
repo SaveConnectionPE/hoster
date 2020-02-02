@@ -13,3 +13,15 @@ Coole Hoster :D
 <br><br>
 
 <a href="https://saveconnectionpe.github.io/hoster/serverbiz/" title="ServerBiz.de - Gute Cloud Server">ServerBiz.de</a>
+
+<br><br>
+
+<style>
+  .kernel{
+    color: red;
+    font-style: italic;
+    font-family: monospace;
+}
+</style>
+
+<div class="kernel"><p>KernelHost.de</p></div>
