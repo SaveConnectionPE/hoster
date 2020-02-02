@@ -1,7 +1,7 @@
-## Coole Hoster :D
+## Hoster | Start
 
 
-Coole Hoster :D
+Hey Dudes, Hier ein paar gute Hoster :)
 <br><br>
 
 *KernelHost.de* | _Prepaid Basis!_
