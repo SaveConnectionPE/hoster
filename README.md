@@ -10,3 +10,6 @@ Coole Hoster :D
 
 <br><br>
 <a href="https://saveconnectionpe.github.io/hoster/kernelhost/" title="KernelHost - Infos">KernelHost.de - Infos</a>
+<br><br>
+
+<a href="https://saveconnectionpe.github.io/hoster/serverbiz/" title="ServerBiz.de - Gute Cloud Server">ServerBiz.de</a>
